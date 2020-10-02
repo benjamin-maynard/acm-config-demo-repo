@@ -1,3 +1,3 @@
-# namespace
+# Namespaces
 
-Contains configuration for resources scoped to a namespace
+This repository contains configuration of resources that are scoped at a namespace level.
